@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    margin-top: -16px;
+}
+.text-center{
+    margin-top: 20px;
+}
+p{
+    justify-content: space-around !important;
+}
+a{
+    font-size: medium !important;
+}
+.card-img-top{
+    width: 100px;
+}
